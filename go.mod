@@ -1,0 +1,8 @@
+// go.mod
+module student-api
+
+go 1.21
+
+require github.com/gorilla/mux v1.8.1
+
+require github.com/mattn/go-sqlite3 v1.14.24 
